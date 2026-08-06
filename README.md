@@ -8,7 +8,7 @@ The objective of this project is to help business owners understand customer pur
 Users can dynamically filter the dashboard using Month and Day slicers, allowing quick analysis of sales performance across different time periods.
 
 ## Dataset Used 
-<a herf="https://github.com/DivyanshuPandey789/Coffee-Shop-Data-Analysis-Using-Excel/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
+- <a href="https://github.com/DivyanshuPandey789/Coffee-Shop-Data-Analysis-Using-Excel/blob/main/Coffee%20Shop%20Sales.xlsx">Dataset</a>
 
 ## 🎯 Objectives
 Analyze overall sales performance.
