@@ -98,4 +98,4 @@ Pivot Charts
 Slicers
 KPI Reporting
 ## Dashboard Preview
--<a href="https://github.com/DivyanshuPandey789/Coffee-Shop-Data-Analysis-Using-Excel/commit/44ff33156e04d84336241ce9f2819ab450861b8d#diff-13cecf186042c0062fee394cbadcaaf9fce8ac01b29d12aaec1b508006b9c131"></a>
+- <a href="https://github.com/DivyanshuPandey789/Coffee-Shop-Data-Analysis-Using-Excel/commit/44ff33156e04d84336241ce9f2819ab450861b8d#diff-13cecf186042c0062fee394cbadcaaf9fce8ac01b29d12aaec1b508006b9c131"></a>
